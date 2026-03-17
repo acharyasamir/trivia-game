@@ -34,7 +34,6 @@ The following **additional** features are implemented:
 
 <img src="assets/walkthrough.gif" width="300" alt="Trivia Game Walkthrough"/>
 
-Video walkthrough: [https://drive.google.com/file/d/165IrdOlXPtvwsM8sLJTacokSABMT1bRe/view?usp=sharing](https://drive.google.com/file/d/165IrdOlXPtvwsM8sLJTacokSABMT1bRe/view?usp=sharing)
 
 ## License
 
